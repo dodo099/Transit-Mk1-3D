@@ -51,6 +51,10 @@ Estimated filament usage in Bambu Studio (scale `1.25`):
 | **Black (Filament 4 – wheels & axles)** | 4.60 g (1.52 m) | 0.00 g (0.00 m) | **4.60 g** (1.52 m) |
 | **Total (scale `1.25`)** | **58.71 g** (19.37 m) | **6.52 g** (2.15 m) | **65.23 g** (21.53 m) |
 
+## Reference vehicle
+**Reference vehicle (Ford Transit Mk1 - 1974):**
+
+![1974 Ford Transit Mk1 Reference](images/front.jpg)
+![1974 Ford Transit Mk1 Reference](images/side.jpg)
 ---
-<br>
 <p align="right"><em>Prepared by <strong>Kinga Konieczna</strong></em></p>
